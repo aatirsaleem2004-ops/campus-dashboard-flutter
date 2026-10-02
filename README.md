@@ -1,17 +1,5 @@
-# campus_dashboard
+On Web Browser
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/2bc73f45-2d5d-43c6-97cc-103ac73571d7" />
+On Mobile Phone
+<img width="720" height="1600" alt="Campus Dashboard " src="https://github.com/user-attachments/assets/9cd59553-8d07-43e7-a686-e9c8e7845375" />
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
